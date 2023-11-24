@@ -1,0 +1,9 @@
+{
+    "version":  "0.2.8",
+    "description": "Run LLMs on your laptop, entirely offline",
+    "url":  "https://s3.amazonaws.com/releases.lmstudio.ai/0.2.8/LM+Studio-0.2.8+Setup.exe",
+    "homepage":  "https://lmstudio.ai",
+    "installer": {
+        "file": "freedomgpt-1.1.3.Setup.exe"
+    }
+}
