@@ -1,14 +1,14 @@
 {
-    "version":  "0.2.8",
+    "version":  "0.2.25",
     "description": "Run LLMs on your laptop, entirely offline",
     "license": {
         "identifier":  "Freeware",
         "url":  "https://lmstudio.ai/terms"
     },
-    "url":  "https://s3.amazonaws.com/releases.lmstudio.ai/0.2.8/LM+Studio-0.2.8+Setup.exe",
-    "hash":  "28321919f9bb75cb0db0fad2452cd7b1f37e3c403f8f12e93127fe800dd27533",
+    "url":  "https://releases.lmstudio.ai/windows/0.2.25/latest/LM-Studio-0.2.25-Setup.exe",
+    "hash":  "049A309BA19935864E6DB0EB7F0CA75DA44150CC3057C65E2D9EED3A67CF4C8B",
     "homepage":  "https://lmstudio.ai",
     "installer": {
-        "file": "LM+Studio-0.2.8+Setup.exe"
+        "file": "LM-Studio-0.2.25-Setup.exe"
     }
 }
