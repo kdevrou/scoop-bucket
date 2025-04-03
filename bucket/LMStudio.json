@@ -5,7 +5,7 @@
         "url":  "https://lmstudio.ai/terms"
     },
     "version": "0.3.13-5",
-    "url":  "https://installers.lmstudio.ai/win32/x64/$version/LM-Studio-$version-x64.exe",
+    "url":  "https://installers.lmstudio.ai/win32/x64/0.3.13-5/LM-Studio-0.3.13-5-x64.exe",
     "hash":  "b9de1a02697822a3c5455a91163e8ae7b425dce4059aa8b1b7bb359cffeb2d8a",
     "homepage":  "https://lmstudio.ai",
     "installer": {
